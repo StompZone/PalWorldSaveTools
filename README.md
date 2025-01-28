@@ -13,7 +13,7 @@ ______     _ _    _            _     _ _____               _____           _
 
 - **Author:** MagicBear and cheahjs  
 - **License:** MIT License  
-- **Updated by:** Pylar and Techdude  
+- **Updated by:** DJStomp, Pylar, and Techdude  
 - **Map Pictures Provided by:** Kozejin  
 - **Testers/Helpers:** Lethe, rcioletti and xKillerMaverick  
 - **Contact me on Discord:** Pylar1991
