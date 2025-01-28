@@ -1,9 +1,9 @@
 <div align="center">
-     <pre><code>
+     <pre>
   _                           __           ___             
  |_) _. | \    / _  ._ |  _| (_   _.     _  |  _   _  |  _ 
  |  (_| |  \/\/ (_) |  | (_| __) (_| \/ (/_ | (_) (_) | _> 
-     </code></pre>
+     </pre>
 <img src="https://github.com/user-attachments/assets/3e074e6f-2a43-4880-8ae5-f33ac4883646" width="80%"> </div>
 
 ---
