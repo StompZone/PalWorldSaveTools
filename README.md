@@ -16,7 +16,7 @@ ______     _ _    _            _     _ _____               _____           _
 - **Updated by:** DJStomp, Pylar, and Techdude  
 - **Map Pictures Provided by:** Kozejin  
 - **Testers/Helpers:** Lethe, rcioletti and xKillerMaverick  
-- **Contact me on Discord:** Pylar1991
+- **Contact me on Discord:** ![Discord](https://img.shields.io/discord/599808270655291403?logo=discord&label=StompZone%20Discord)
 
 ---
 
