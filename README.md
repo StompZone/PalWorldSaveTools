@@ -7,7 +7,8 @@ ______     _ _    _            _     _ _____               _____           _
 \_|  \__,_|_|\/  \/ \___/|_|  |_|\__,_\____/ \__,_| \_/ \___\_/\___/ \___/|_|___/
 ```
 
-![image](https://github.com/user-attachments/assets/2d5ecb8e-9462-42ef-8d95-4e39983bea82)
+![image](https://github.com/user-attachments/assets/3e074e6f-2a43-4880-8ae5-f33ac4883646)
+
 ---
 
 - **Author:** MagicBear and cheahjs  
